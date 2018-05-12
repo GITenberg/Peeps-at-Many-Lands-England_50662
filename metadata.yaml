@@ -1,4 +1,8 @@
 _repo: Peeps-at-Many-Lands-England_50662
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50662-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Finnemore, John
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2579
     wikipedia: http://en.wikipedia.org/wiki/John_Finnemore_(author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50662#Peeps-at-Many-Lands-England
 gutenberg_issued: '2015-12-10'
 gutenberg_type: Text
 identifiers:
